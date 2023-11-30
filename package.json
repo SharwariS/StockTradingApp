@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@alpacahq/alpaca-trade-api": "^3.0.1",
+    "highcharts": "^11.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "mock-socket": "^9.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+  
+}
